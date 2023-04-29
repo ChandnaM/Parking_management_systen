@@ -19,9 +19,9 @@ The project report presents IOT-based smart parking system. The IR sensors used 
 </ul>
 
 <p align="left">
-  <img src="https://github.com/SKULLDRAGON099/banner/blob/main/WhatsApp%20Image%202023-03-27%20at%204.33.46%20PM.jpeg?raw=true" width="350" alt="accessibility text">
+  <img src="https://github.com/ChandnaM/picture/blob/main/hardware.jpeg" width="350" alt="accessibility text">
 </p>
 
 <p align="left">
-  <img src="https://github.com/SKULLDRAGON099/banner/blob/main/car.png?raw=true" width="550" alt="accessibility text">
+  <img src="https://github.com/ChandnaM/picture/blob/main/interface.jpeg" width="550" alt="accessibility text">
 </p>
